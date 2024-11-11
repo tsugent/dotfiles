@@ -120,7 +120,6 @@ alias nt-laptop="`which chromium 2>/dev/null || which chrome 2>/dev/null || whic
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-export NPM_TOKEN='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'
 [[ "$TERM" == "xterm-kitty" ]] && alias ssh="TERM=xterm-256color ssh"
 
 
